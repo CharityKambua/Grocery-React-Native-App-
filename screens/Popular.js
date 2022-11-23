@@ -107,6 +107,7 @@ const styles =StyleSheet.create({
     marginTop: 20,
     marginLeft: 'auto',
     marginRight: 'auto',
+    height:'100%'
 
   },
   item: {
